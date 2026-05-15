@@ -1,2 +1,2 @@
 # Shop-Inventory-System
-This is the program and read me document for the shop inventory system.
+This program shows all of the components in the shop and can add or subtract whatever part is selected. First the program will show a screen presenting 3 options for the user to select. If the user selects 1, they will view the inventory of the shop. If they select 2 they will add stock to the inventory. The user will select the component they want and add stock. If they select 3 the program will remove stock from the inventory. And the final option will allow the user to exit the program.
