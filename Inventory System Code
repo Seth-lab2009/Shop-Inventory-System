@@ -182,7 +182,7 @@ int main() {
         // MAIN MENU
         cout << "\n";
         cout << "#####################################\n";
-        cout << "#     ELECTRONICS INVENTORY SYS    #\n";
+        cout << "#     ELECTRONICS INVENTORY SYSTEM  #\n";
         cout << "#####################################\n";
 
         cout << "\n[1] VIEW INVENTORY";
@@ -230,10 +230,10 @@ int main() {
 
         // HANDLE Inductors
         else if (category == 2) {
-            show(Inductors, Istock);
+            show(Inductors, Hstock);
 
-            if (choice == 2) add(Istock);
-            if (choice == 3) remove(Istock);
+            if (choice == 2) add(Hstock);
+            if (choice == 3) remove(Hstock);
         }
 
         // HANDLE BATTERIES
